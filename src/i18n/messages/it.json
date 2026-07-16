@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Progetti",
+    "about": "Chi Sono",
+    "contact": "Contatti",
+    "closeMenu": "Chiudi menu",
+    "openMenu": "Apri menu",
+    "openCommandPalette": "Apri command palette"
+  },
+  "hero": {
+    "badge": "Sviluppo Plugin Minecraft",
+    "title": "Minecraft Developer",
+    "titleHighlight": "",
+    "description": "Faccio plugin Minecraft e gestisco server. Java, Paper, Velocity — roba che funziona.",
+    "cta1": "Vedi Progetti",
+    "cta2": "Contattami"
+  },
+  "stats": {
+    "experience": "Anni di Esperienza",
+    "plugins": "Plugin Configurati",
+    "networks": "Network Gestiti",
+    "servers": "Server Configurati"
+  },
+  "skills": {
+    "title": "Il Mio Stack",
+    "subtitle": "Linguaggi e strumenti che uso ogni giorno"
+  },
+  "projects": {
+    "title": "Progetti",
+    "subtitle": "Plugin, config e server che ho costruito",
+    "all": "Tutti",
+    "plugin": "Plugin",
+    "library": "Script e Template",
+    "utility": "Utility",
+    "opensource": "Open Source",
+    "empty": "Nessun progetto in questa categoria.",
+    "source": "Sorgente",
+    "demo": "Demo",
+    "backToProjects": "Torna ai Progetti",
+    "technologies": "Tecnologie",
+    "features": "Funzionalità",
+    "viewOnGitHub": "Vedi su GitHub",
+    "liveDemo": "Demo Live",
+    "detail_notFound": "Progetto non trovato",
+    "items": {
+      "kyo-portfolio": { "title": "Kyo Portfolio", "description": "Portfolio personale costruito con Next.js 16, next-intl e Framer Motion — i18n EN/IT, tema dark/light, design glassmorphism e animazioni fluide." }
+    }
+  },
+  "about": {
+    "title": "Chi Sono",
+    "subtitle": "Sviluppatore plugin Minecraft",
+    "heading": "Faccio funzionare i server come dovrebbero",
+    "p1": "Sono Kyo. Sono 3+ anni che faccio questo — sviluppo plugin, configuro server, sistemo lag e costruisco network che reggono. Scrivo plugin da zero e li faccio funzionare insieme come un orologio.",
+    "p2": "Ho configurato reti Velocity, server survival da zero, arene minigame, sistemi di autenticazione, economie, di tutto. Ogni progetto è diverso, e mi piace così.",
+    "p3": "Fuori dal lavoro pubblicato template, scrivo guide e condivido script su GitHub. La community di Minecraft cresce più forte quando ci aiutiamo a vicenda.",
+    "quickFacts": "Quick Facts",
+    "experienceLabel": "Esperienza",
+    "experienceValue": "3+ anni",
+    "projectsLabel": "Server Configurati",
+    "projectsValue": "26+",
+    "networksLabel": "Plugin Gestiti",
+    "networksValue": "100+",
+    "focusLabel": "Specializzazione",
+    "focusValue": "Configurazione & Ottimizzazione",
+    "locationLabel": "Location",
+    "locationValue": "Remoto / Italia",
+    "valuesTitle": "Valori & Filosofia",
+    "valuesSubtitle": "I principi che guidano il mio lavoro",
+    "value1Title": "Fatto Bene",
+    "value1Desc": "Ogni plugin, ogni file di config, ogni permesso — controllo due volte così nulla si rompe.",
+    "value2Title": "Velocità Conta",
+    "value2Desc": "Il lag è il nemico. Regolo tick rate, ottimizzo le query al database e taglio via ogni millisecondo.",
+    "value3Title": "Trasparenza",
+    "value3Desc": "Comunicazione chiara, tempistiche oneste, nessuna sorpresa. Sai sempre a che punto siamo.",
+    "value4Title": "Semplice è Meglio",
+    "value4Desc": "I giocatori non devono pensare a cosa gira sotto il cofano. Loro giocano e basta.",
+    "value5Title": "Scalabile",
+    "value5Desc": "Da un server towny da 10 giocatori a un network da 10,000 — l'architettura deve semplicemente funzionare.",
+    "value6Title": "Condividi",
+    "value6Desc": "Pubblico template open-source, scrivo guide e condivido ciò che imparo. La community è migliore quando condividiamo tutti.",
+    "timelineTitle": "Percorso",
+    "timelineSubtitle": "",
+    "timeline": [
+      { "year": "2023", "title": "Configurazione Plugin", "description": "Iniziato a configurare plugin per server piccoli. Imparato LuckPerms, DeluxeMenus, PlaceholderAPI e ottimizzazione server." },
+      { "year": "2024", "title": "Network di Server", "description": "Passato a network multi-server. Configurato proxy Velocity, sincronizzazione Redis e gestiti 10+ server." },
+      { "year": "2025", "title": "Sviluppo Custom", "description": "Iniziato a scrivere plugin miei da zero. Passato dal configurare plugin esistenti a costruire esattamente ciò che serve." },
+      { "year": "2026", "title": "Plugin Miei", "description": "Sviluppo la mia suite di plugin e rilascio più risorse possibili su GitHub. Condivido tutto quello che costruisco così altri possono usarlo e imparare." }
+    ]
+  },
+  "contact": {
+    "title": "Contatti",
+    "subtitle": "Serve un plugin? Parliamone.",
+    "discord": "Discord",
+    "github": "GitHub",
+    "telegram": "Telegram",
+    "email": "Email",
+    "location": "Remoto / Italia",
+    "discordTitle": "Unisciti al mio Discord",
+    "discordDesc": "Modo più veloce per contattarmi. Apri un ticket e ti rispondo in poche ore.",
+    "discordButton": "Apri un Ticket",
+    "formName": "Nome",
+    "formEmail": "Email",
+    "formSubject": "Oggetto",
+    "formMessage": "Messaggio",
+    "formSubmit": "Invia",
+    "formSuccess": "Inviato! Ti risponderò presto.",
+    "formError": "Qualcosa è andato storto. Riprova.",
+    "formPlaceholderName": "Il tuo nome",
+    "formPlaceholderEmail": "tua@email.com",
+    "formPlaceholderSubject": "Di cosa si tratta?",
+    "formPlaceholderMessage": "Parlami del tuo progetto..."
+  },
+  "footer": {
+    "copyright": "Realizzato da Kyo."
+  },
+  "notFound": {
+    "title": "Chunk non caricato",
+    "description": "Questa pagina non esiste o è stata spostata. Torniamo indietro.",
+    "button": "Torna alla Home"
+  },
+  "theme": {
+    "switchToLight": "Modalità chiara",
+    "switchToDark": "Modalità scura"
+  },
+  "common": {
+    "skipToContent": "Salta al contenuto",
+    "backToTop": "Torna su",
+    "scrollProgress": "Avanzamento"
+  },
+  "commandPalette": {
+    "placeholder": "Cerca pagine, progetti...",
+    "noResults": "Nessun risultato per \"{query}\"",
+    "page": "Pagina",
+    "project": "Progetto"
+  },
+  "discordStatus": {
+    "online": "Online",
+    "idle": "Inattivo",
+    "dnd": "Non Disturbare",
+    "offline": "Offline"
+  },
+  "language": {
+    "switchToItalian": "Passa all'Italiano",
+    "switchToEnglish": "Passa all'Inglese"
+  }
+}
